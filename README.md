@@ -6,7 +6,7 @@ One turtle follows other turtle in Ros Turtlesim
 # Two robots were used in this project in Ros turtlesim.
 
 # The state vector of robots is denoted by [x, y, θ].T
-   x and y are position of robots in 2D; θ is the heading angle.
+   X and y are position of robots in 2D; θ is the heading angle.
    Robot-1 will spawn in [0,0,0].T, Robot-2 will spawn in a randomly determined situation, provided it is in the working space
     
 # Motion Controller(ROS node) will be written for each one robot.
