@@ -35,6 +35,7 @@ One turtle follows other turtle in Ros Turtlesim
       o Robot-2 mevcut doğrultu açısında ve belirlenmiş sabit hızda hareket eder.
       o Robot-2 çalışma ortamı sınırına geldiğinde, ışığın aynadan yansıması gibi hareket eder. Yani geliş
         doğrultusunun normalle yaptığı açı, dönüş yönünün normalle yaptığı açıya eşittir.
+  
   • Robotların (linear ve angular) maks. hızları ve takip mesafesi parametrik olarak, başlangıçta JSON
     dosyasından okunmuştur.
 
